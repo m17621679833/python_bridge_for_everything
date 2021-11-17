@@ -1,0 +1,2 @@
+# python_bridge_for_everything
+用python学习各种玩意
